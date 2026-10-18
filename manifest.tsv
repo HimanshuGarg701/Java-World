@@ -137,3 +137,26 @@ problem_number	relative_path	title
 333	src/main/java/com/javaworld/leetcode/P0333LargestBSTSubtree.java	Largest BST Subtree
 79	src/main/java/com/javaworld/leetcode/P0079WordSearch.java	Word Search
 306	src/main/java/com/javaworld/leetcode/P0306AdditiveNumber.java	Additive Number
+89	src/main/java/com/javaworld/leetcode/P0089GrayCode.java	Gray Code
+96	src/main/java/com/javaworld/leetcode/P0096UniqueBinarySearchTrees.java	Unique Binary Search Trees
+56	src/main/java/com/javaworld/leetcode/P0056MergeIntervals.java	Merge Intervals
+87	src/main/java/com/javaworld/leetcode/P0087ScrambleString.java	Scramble String
+76	src/main/java/com/javaworld/leetcode/P0076MinimumWindowSubstring.java	Minimum Window Substring
+217	src/main/java/com/javaworld/leetcode/P0217ContainsDuplicate.java	Contains Duplicate
+4	src/main/java/com/javaworld/leetcode/P0004MedianOfTwoSortedArrays.java	Median Of Two Sorted Arrays
+66	src/main/java/com/javaworld/leetcode/P0066PlusOne.java	Plus One
+332	src/main/java/com/javaworld/leetcode/P0332ReconstructItinerary.java	Reconstruct Itinerary
+59	src/main/java/com/javaworld/leetcode/P0059SpiralMatrixII.java	Spiral Matrix II
+20	src/main/java/com/javaworld/leetcode/P0020ValidParentheses.java	Valid Parentheses
+90	src/main/java/com/javaworld/leetcode/P0090SubsetsII.java	Subsets II
+21	src/main/java/com/javaworld/leetcode/P0021MergeTwoSortedLists.java	Merge Two Sorted Lists
+315	src/main/java/com/javaworld/leetcode/P0315CountOfSmallerNumbersAfterSelf.java	Count Of Smaller Numbers After Self
+39	src/main/java/com/javaworld/leetcode/P0039CombinationSum.java	Combination Sum
+57	src/main/java/com/javaworld/leetcode/P0057InsertInterval.java	Insert Interval
+212	src/main/java/com/javaworld/leetcode/P0212WordSearchII.java	Word Search II
+10	src/main/java/com/javaworld/leetcode/P0010RegularExpressionMatching.java	Regular Expression Matching
+318	src/main/java/com/javaworld/leetcode/P0318MaximumProductOfWordLengths.java	Maximum Product Of Word Lengths
+307	src/main/java/com/javaworld/leetcode/P0307RangeSumQueryMutable.java	Range Sum Query Mutable
+213	src/main/java/com/javaworld/leetcode/P0213HouseRobberII.java	House Robber II
+15	src/main/java/com/javaworld/leetcode/P0015ThreeSum.java	Three Sum
+304	src/main/java/com/javaworld/leetcode/P0304RangeSumQuery2DImmutable.java	Range Sum Query 2D Immutable

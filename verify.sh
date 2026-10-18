@@ -6,7 +6,7 @@ cd "$repository_dir"
 
 manifest=manifest.tsv
 solutions_dir=src/main/java/com/javaworld/leetcode
-expected_solutions=138
+expected_solutions=161
 expected_header=$(printf 'problem_number\trelative_path\ttitle')
 
 fail() {
@@ -57,4 +57,3 @@ find "$solutions_dir" -maxdepth 1 -type f -name '*.java' -print | sort > "$build
 javac --release 17 -encoding UTF-8 -d "$build_dir/classes" @"$build_dir/sources.txt"
 
 printf 'Verified %s Java solutions and compiled the complete catalog.\n' "$expected_solutions"
-
