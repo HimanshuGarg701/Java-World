@@ -1,0 +1,139 @@
+problem_number	relative_path	title
+86	src/main/java/com/javaworld/leetcode/P0086PartitionList.java	Partition List
+32	src/main/java/com/javaworld/leetcode/P0032LongestValidParentheses.java	Longest Valid Parentheses
+305	src/main/java/com/javaworld/leetcode/P0305NumberOfIslandsII.java	Number Of Islands II
+50	src/main/java/com/javaworld/leetcode/P0050PowXN.java	Pow XN
+339	src/main/java/com/javaworld/leetcode/P0339NestedListWeightSum.java	Nested List Weight Sum
+337	src/main/java/com/javaworld/leetcode/P0337HouseRobberIII.java	House Robber III
+19	src/main/java/com/javaworld/leetcode/P0019RemoveNthNodeFromEndOfList.java	Remove Nth Node From End Of List
+316	src/main/java/com/javaworld/leetcode/P0316RemoveDuplicateLetters.java	Remove Duplicate Letters
+35	src/main/java/com/javaworld/leetcode/P0035SearchInsertPosition.java	Search Insert Position
+344	src/main/java/com/javaworld/leetcode/P0344ReverseString.java	Reverse String
+348	src/main/java/com/javaworld/leetcode/P0348DesignTicTacToe.java	Design Tic Tac Toe
+338	src/main/java/com/javaworld/leetcode/P0338CountingBits.java	Counting Bits
+72	src/main/java/com/javaworld/leetcode/P0072EditDistance.java	Edit Distance
+69	src/main/java/com/javaworld/leetcode/P0069SqrtX.java	Sqrt X
+51	src/main/java/com/javaworld/leetcode/P0051NQueens.java	N Queens
+214	src/main/java/com/javaworld/leetcode/P0214ShortestPalindrome.java	Shortest Palindrome
+49	src/main/java/com/javaworld/leetcode/P0049GroupAnagrams.java	Group Anagrams
+326	src/main/java/com/javaworld/leetcode/P0326PowerOfThree.java	Power Of Three
+82	src/main/java/com/javaworld/leetcode/P0082RemoveDuplicatesFromSortedListII.java	Remove Duplicates From Sorted List II
+219	src/main/java/com/javaworld/leetcode/P0219ContainsDuplicateII.java	Contains Duplicate II
+345	src/main/java/com/javaworld/leetcode/P0345ReverseVowelsOfAString.java	Reverse Vowels Of A String
+17	src/main/java/com/javaworld/leetcode/P0017LetterCombinationsOfAPhoneNumber.java	Letter Combinations Of A Phone Number
+88	src/main/java/com/javaworld/leetcode/P0088MergeSortedArray.java	Merge Sorted Array
+210	src/main/java/com/javaworld/leetcode/P0210CourseScheduleII.java	Course Schedule II
+321	src/main/java/com/javaworld/leetcode/P0321CreateMaximumNumber.java	Create Maximum Number
+97	src/main/java/com/javaworld/leetcode/P0097InterleavingString.java	Interleaving String
+323	src/main/java/com/javaworld/leetcode/P0323NumberOfConnectedComponentsInAnUndirectedGraph.java	Number Of Connected Components In An Undirected Graph
+340	src/main/java/com/javaworld/leetcode/P0340LongestSubstringWithAtMostKDistinctCharacters.java	Longest Substring With At Most K Distinct Characters
+8	src/main/java/com/javaworld/leetcode/P0008StringToInteger.java	String To Integer
+215	src/main/java/com/javaworld/leetcode/P0215KthLargestElementInAnArray.java	Kth Largest Element In An Array
+1	src/main/java/com/javaworld/leetcode/P0001TwoSum.java	Two Sum
+28	src/main/java/com/javaworld/leetcode/P0028FindFirstOccurrence.java	Find First Occurrence
+58	src/main/java/com/javaworld/leetcode/P0058LengthOfLastWord.java	Length Of Last Word
+75	src/main/java/com/javaworld/leetcode/P0075SortColors.java	Sort Colors
+74	src/main/java/com/javaworld/leetcode/P0074SearchA2DMatrix.java	Search A 2D Matrix
+92	src/main/java/com/javaworld/leetcode/P0092ReverseLinkedListII.java	Reverse Linked List II
+220	src/main/java/com/javaworld/leetcode/P0220ContainsDuplicateIII.java	Contains Duplicate III
+309	src/main/java/com/javaworld/leetcode/P0309BestTimeToBuyAndSellStockWithCooldown.java	Best Time To Buy And Sell Stock With Cooldown
+98	src/main/java/com/javaworld/leetcode/P0098ValidateBinarySearchTree.java	Validate Binary Search Tree
+346	src/main/java/com/javaworld/leetcode/P0346MovingAverageFromDataStream.java	Moving Average From Data Stream
+30	src/main/java/com/javaworld/leetcode/P0030SubstringWithConcatenationOfAllWords.java	Substring With Concatenation Of All Words
+73	src/main/java/com/javaworld/leetcode/P0073SetMatrixZeroes.java	Set Matrix Zeroes
+2	src/main/java/com/javaworld/leetcode/P0002AddTwoNumbers.java	Add Two Numbers
+328	src/main/java/com/javaworld/leetcode/P0328OddEvenLinkedList.java	Odd Even Linked List
+43	src/main/java/com/javaworld/leetcode/P0043MultiplyStrings.java	Multiply Strings
+68	src/main/java/com/javaworld/leetcode/P0068TextJustification.java	Text Justification
+6	src/main/java/com/javaworld/leetcode/P0006ZigzagConversion.java	Zigzag Conversion
+324	src/main/java/com/javaworld/leetcode/P0324WiggleSortII.java	Wiggle Sort II
+311	src/main/java/com/javaworld/leetcode/P0311SparseMatrixMultiplication.java	Sparse Matrix Multiplication
+31	src/main/java/com/javaworld/leetcode/P0031NextPermutation.java	Next Permutation
+47	src/main/java/com/javaworld/leetcode/P0047PermutationsII.java	Permutations II
+335	src/main/java/com/javaworld/leetcode/P0335SelfCrossing.java	Self Crossing
+336	src/main/java/com/javaworld/leetcode/P0336PalindromePairs.java	Palindrome Pairs
+308	src/main/java/com/javaworld/leetcode/P0308RangeSumQuery2DMutable.java	Range Sum Query 2D Mutable
+80	src/main/java/com/javaworld/leetcode/P0080RemoveDuplicatesFromSortedArrayII.java	Remove Duplicates From Sorted Array II
+218	src/main/java/com/javaworld/leetcode/P0218TheSkylineProblem.java	The Skyline Problem
+83	src/main/java/com/javaworld/leetcode/P0083RemoveDuplicatesFromSortedList.java	Remove Duplicates From Sorted List
+85	src/main/java/com/javaworld/leetcode/P0085MaximalRectangle.java	Maximal Rectangle
+44	src/main/java/com/javaworld/leetcode/P0044WildcardMatching.java	Wildcard Matching
+319	src/main/java/com/javaworld/leetcode/P0319BulbSwitcher.java	Bulb Switcher
+46	src/main/java/com/javaworld/leetcode/P0046Permutations.java	Permutations
+13	src/main/java/com/javaworld/leetcode/P0013RomanToInteger.java	Roman To Integer
+37	src/main/java/com/javaworld/leetcode/P0037SudokuSolver.java	Sudoku Solver
+7	src/main/java/com/javaworld/leetcode/P0007ReverseInteger.java	Reverse Integer
+40	src/main/java/com/javaworld/leetcode/P0040CombinationSumII.java	Combination Sum II
+60	src/main/java/com/javaworld/leetcode/P0060PermutationSequence.java	Permutation Sequence
+322	src/main/java/com/javaworld/leetcode/P0322CoinChange.java	Coin Change
+327	src/main/java/com/javaworld/leetcode/P0327CountOfRangeSum.java	Count Of Range Sum
+314	src/main/java/com/javaworld/leetcode/P0314BinaryTreeVerticalOrderTraversal.java	Binary Tree Vertical Order Traversal
+343	src/main/java/com/javaworld/leetcode/P0343IntegerBreak.java	Integer Break
+62	src/main/java/com/javaworld/leetcode/P0062UniquePaths.java	Unique Paths
+22	src/main/java/com/javaworld/leetcode/P0022GenerateParentheses.java	Generate Parentheses
+64	src/main/java/com/javaworld/leetcode/P0064MinimumPathSum.java	Minimum Path Sum
+93	src/main/java/com/javaworld/leetcode/P0093RestoreIPAddresses.java	Restore IP Addresses
+65	src/main/java/com/javaworld/leetcode/P0065ValidNumber.java	Valid Number
+334	src/main/java/com/javaworld/leetcode/P0334IncreasingTripletSubsequence.java	Increasing Triplet Subsequence
+303	src/main/java/com/javaworld/leetcode/P0303RangeSumQueryImmutable.java	Range Sum Query Immutable
+41	src/main/java/com/javaworld/leetcode/P0041FirstMissingPositive.java	First Missing Positive
+325	src/main/java/com/javaworld/leetcode/P0325MaximumSizeSubarraySumEqualsK.java	Maximum Size Subarray Sum Equals K
+42	src/main/java/com/javaworld/leetcode/P0042TrappingRainWater.java	Trapping Rain Water
+5	src/main/java/com/javaworld/leetcode/P0005LongestPalindromicSubstring.java	Longest Palindromic Substring
+302	src/main/java/com/javaworld/leetcode/P0302SmallestRectangleEnclosingBlackPixels.java	Smallest Rectangle Enclosing Black Pixels
+313	src/main/java/com/javaworld/leetcode/P0313SuperUglyNumber.java	Super Ugly Number
+100	src/main/java/com/javaworld/leetcode/P0100SameTree.java	Same Tree
+38	src/main/java/com/javaworld/leetcode/P0038CountAndSay.java	Count And Say
+48	src/main/java/com/javaworld/leetcode/P0048RotateImage.java	Rotate Image
+331	src/main/java/com/javaworld/leetcode/P0331VerifyPreorderSerializationOfABinaryTree.java	Verify Preorder Serialization Of A Binary Tree
+317	src/main/java/com/javaworld/leetcode/P0317ShortestDistanceFromAllBuildings.java	Shortest Distance From All Buildings
+63	src/main/java/com/javaworld/leetcode/P0063UniquePathsII.java	Unique Paths II
+11	src/main/java/com/javaworld/leetcode/P0011ContainerWithMostWater.java	Container With Most Water
+347	src/main/java/com/javaworld/leetcode/P0347TopKFrequentElements.java	Top K Frequent Elements
+36	src/main/java/com/javaworld/leetcode/P0036ValidSudoku.java	Valid Sudoku
+301	src/main/java/com/javaworld/leetcode/P0301RemoveInvalidParentheses.java	Remove Invalid Parentheses
+341	src/main/java/com/javaworld/leetcode/P0341FlattenNestedListIterator.java	Flatten Nested List Iterator
+23	src/main/java/com/javaworld/leetcode/P0023MergeKSortedLists.java	Merge K Sorted Lists
+95	src/main/java/com/javaworld/leetcode/P0095UniqueBinarySearchTreesII.java	Unique Binary Search Trees II
+24	src/main/java/com/javaworld/leetcode/P0024SwapNodesInPairs.java	Swap Nodes In Pairs
+94	src/main/java/com/javaworld/leetcode/P0094BinaryTreeInorderTraversal.java	Binary Tree Inorder Traversal
+342	src/main/java/com/javaworld/leetcode/P0342PowerOfFour.java	Power Of Four
+16	src/main/java/com/javaworld/leetcode/P0016ThreeSumClosest.java	Three Sum Closest
+211	src/main/java/com/javaworld/leetcode/P0211DesignAddAndSearchWordsDataStructure.java	Design Add And Search Words Data Structure
+329	src/main/java/com/javaworld/leetcode/P0329LongestIncreasingPathInAMatrix.java	Longest Increasing Path In A Matrix
+330	src/main/java/com/javaworld/leetcode/P0330PatchingArray.java	Patching Array
+54	src/main/java/com/javaworld/leetcode/P0054SpiralMatrix.java	Spiral Matrix
+52	src/main/java/com/javaworld/leetcode/P0052NQueensII.java	N Queens II
+12	src/main/java/com/javaworld/leetcode/P0012IntegerToRoman.java	Integer To Roman
+349	src/main/java/com/javaworld/leetcode/P0349IntersectionOfTwoArrays.java	Intersection Of Two Arrays
+216	src/main/java/com/javaworld/leetcode/P0216CombinationSumIII.java	Combination Sum III
+29	src/main/java/com/javaworld/leetcode/P0029DivideTwoIntegers.java	Divide Two Integers
+71	src/main/java/com/javaworld/leetcode/P0071SimplifyPath.java	Simplify Path
+3	src/main/java/com/javaworld/leetcode/P0003LongestSubstringWithoutRepeatingCharacters.java	Longest Substring Without Repeating Characters
+320	src/main/java/com/javaworld/leetcode/P0320GeneralizedAbbreviation.java	Generalized Abbreviation
+33	src/main/java/com/javaworld/leetcode/P0033SearchInRotatedSortedArray.java	Search In Rotated Sorted Array
+310	src/main/java/com/javaworld/leetcode/P0310MinimumHeightTrees.java	Minimum Height Trees
+70	src/main/java/com/javaworld/leetcode/P0070ClimbingStairs.java	Climbing Stairs
+34	src/main/java/com/javaworld/leetcode/P0034FindFirstAndLastPosition.java	Find First And Last Position
+350	src/main/java/com/javaworld/leetcode/P0350IntersectionOfTwoArraysII.java	Intersection Of Two Arrays II
+77	src/main/java/com/javaworld/leetcode/P0077Combinations.java	Combinations
+78	src/main/java/com/javaworld/leetcode/P0078Subsets.java	Subsets
+26	src/main/java/com/javaworld/leetcode/P0026RemoveDuplicatesFromSortedArray.java	Remove Duplicates From Sorted Array
+91	src/main/java/com/javaworld/leetcode/P0091DecodeWays.java	Decode Ways
+14	src/main/java/com/javaworld/leetcode/P0014LongestCommonPrefix.java	Longest Common Prefix
+45	src/main/java/com/javaworld/leetcode/P0045JumpGameII.java	Jump Game II
+67	src/main/java/com/javaworld/leetcode/P0067AddBinary.java	Add Binary
+25	src/main/java/com/javaworld/leetcode/P0025ReverseNodesInKGroup.java	Reverse Nodes In K Group
+9	src/main/java/com/javaworld/leetcode/P0009PalindromeNumber.java	Palindrome Number
+312	src/main/java/com/javaworld/leetcode/P0312BurstBalloons.java	Burst Balloons
+84	src/main/java/com/javaworld/leetcode/P0084LargestRectangleInHistogram.java	Largest Rectangle In Histogram
+55	src/main/java/com/javaworld/leetcode/P0055JumpGame.java	Jump Game
+61	src/main/java/com/javaworld/leetcode/P0061RotateList.java	Rotate List
+27	src/main/java/com/javaworld/leetcode/P0027RemoveElement.java	Remove Element
+18	src/main/java/com/javaworld/leetcode/P0018FourSum.java	Four Sum
+99	src/main/java/com/javaworld/leetcode/P0099RecoverBinarySearchTree.java	Recover Binary Search Tree
+53	src/main/java/com/javaworld/leetcode/P0053MaximumSubarray.java	Maximum Subarray
+81	src/main/java/com/javaworld/leetcode/P0081SearchInRotatedSortedArrayII.java	Search In Rotated Sorted Array II
+333	src/main/java/com/javaworld/leetcode/P0333LargestBSTSubtree.java	Largest BST Subtree
+79	src/main/java/com/javaworld/leetcode/P0079WordSearch.java	Word Search
+306	src/main/java/com/javaworld/leetcode/P0306AdditiveNumber.java	Additive Number
